@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="7" fill="#09090b"/>
+  <!-- Amber accent bar bottom -->
+  <rect x="6" y="25" width="20" height="2.5" rx="1.25" fill="#fbbf24"/>
+  <!-- B vertical stroke -->
+  <rect x="7" y="7" width="3.5" height="17" rx="1.5" fill="#fafafa"/>
+  <!-- B top arm -->
+  <rect x="7" y="7" width="10" height="3" rx="1.5" fill="#fafafa"/>
+  <rect x="14" y="7" width="3" height="9" rx="1.5" fill="#fafafa"/>
+  <!-- B middle arm -->
+  <rect x="7" y="13.5" width="11" height="3" rx="1.5" fill="#fafafa"/>
+  <!-- B bottom arm (amber) -->
+  <rect x="15" y="13.5" width="3.5" height="9" rx="1.5" fill="#fbbf24"/>
+  <rect x="7" y="21" width="11" height="3" rx="1.5" fill="#fafafa"/>
+</svg>
